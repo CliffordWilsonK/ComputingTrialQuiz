@@ -1,0 +1,1322 @@
+[
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q1)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q2)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q3)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q4)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q5)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q6)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q7)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q8)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q9)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q10)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q11)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q12)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q13)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q14)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q15)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q16)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q17)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q18)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q19)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q20)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q21)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q22)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q23)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q24)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q25)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q26)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q27)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q28)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q29)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q30)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q31)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q32)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q33)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q34)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q35)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q36)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q37)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q38)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q39)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q40)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q41)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q42)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q43)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q44)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q45)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q46)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q47)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q48)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q49)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q50)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q51)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q52)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q53)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q54)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q55)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q56)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q57)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q58)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q59)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q60)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q61)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q62)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q63)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q64)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q65)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q66)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q67)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q68)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q69)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q70)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q71)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q72)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q73)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q74)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q75)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q76)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q77)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q78)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q79)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q80)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q81)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q82)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q83)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q84)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q85)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q86)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q87)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q88)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q89)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q90)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q91)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q92)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q93)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q94)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q95)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q96)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q97)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q98)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q99)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q100)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q101)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q102)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q103)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q104)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q105)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q106)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q107)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which component is responsible for executing instructions in a computer? (Q108)",
+        "options": [
+            "CPU",
+            "RAM",
+            "Hard Drive",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an input device? (Q109)",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which device is used for displaying output visually? (Q110)",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "Monitor",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is the main function of secondary storage? (Q111)",
+        "options": [
+            "Processing data",
+            "Storing data permanently",
+            "Displaying output",
+            "Transmitting data"
+        ],
+        "answer": "Storing data permanently",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is an example of an operating system? (Q112)",
+        "options": [
+            "Windows 10",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Photoshop"
+        ],
+        "answer": "Windows 10",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which protocol is used for sending emails? (Q113)",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a database management system (DBMS)? (Q114)",
+        "options": [
+            "Oracle",
+            "Windows",
+            "Microsoft Word",
+            "Excel"
+        ],
+        "answer": "Oracle",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is a type of malware? (Q115)",
+        "options": [
+            "Virus",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "answer": "Virus",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which phase of the SDLC involves gathering requirements from users? (Q116)",
+        "options": [
+            "Design",
+            "Planning",
+            "Analysis",
+            "Testing"
+        ],
+        "answer": "Analysis",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What is a 4-bit group commonly called? (Q117)",
+        "options": [
+            "Byte",
+            "Bitset",
+            "Nibble",
+            "Segment"
+        ],
+        "answer": "Nibble",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of the following is the first generation of computer technology? (Q118)",
+        "options": [
+            "Transistor",
+            "Vacuum tube",
+            "Integrated Circuit",
+            "Microprocessor"
+        ],
+        "answer": "Vacuum tube",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "What does URL stand for? (Q119)",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Return Locator",
+            "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator",
+        "topic": "Miscellaneous"
+    },
+    {
+        "text": "Which of these is not considered application software? (Q120)",
+        "options": [
+            "Microsoft Word",
+            "Excel Spreadsheet",
+            "Operating System",
+            "Photoshop"
+        ],
+        "answer": "Operating System",
+        "topic": "Miscellaneous"
+    }
+]
